@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+
+output/
+
+*.crc
+
+*.class
+
+*.log
+
+*.tmp
+
+__pycache__/
+
+*.pyc
+
+.DS_Store
