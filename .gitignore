@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 
 output/
-
+data/output/
 *.crc
 
 *.class
